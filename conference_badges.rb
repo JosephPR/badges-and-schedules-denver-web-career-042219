@@ -4,11 +4,8 @@ def
 end
 
 def batch_badge_creator (attendees)
+attendees.each do |n|"Hello, my name is #{n}"
   
- 
-attendees.each do |n|
-  text = "Hello, my name is #{n}"
-  puts text
 end
   
   end
