@@ -5,7 +5,7 @@ end
 
 def batch_badge_creator (arr)
 
-arr.each do |a|
+arr.each do
   print badge_maker(a)
  
 end
