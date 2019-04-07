@@ -4,8 +4,8 @@ def
 end
 
 def batch_badge_creator (arr)
-
-arr.each do {|a| print badge_maker()}
+# [1, 2, 3].each { |n| puts "Current number is: #{n}" }
+arr.each  { |a| print badge_maker() }
 
  
 end
