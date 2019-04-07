@@ -3,10 +3,10 @@ def
   "Hello, my name is #{name}."
 end
 
-def batch_badge_creator (attendees)
+def batch_badge_creator (arr)
 
-attendees.each do |a|
-  puts a
+arr.each do |a|
+  print a
  
 end
   
