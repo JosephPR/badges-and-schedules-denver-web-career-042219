@@ -4,8 +4,7 @@ def
 end
 
 def batch_badge_creator (attendees)
-attendees.each { |n| puts "Current number is: #{n}" }
-  
+
 end
   
   end
