@@ -6,7 +6,7 @@ end
 def batch_badge_creator (arr)
 
 arr.each do
-  print badge_maker(arr)
+  print badge_maker()
  
 end
   
